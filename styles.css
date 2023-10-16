@@ -1,0 +1,27 @@
+*{
+    
+    font-family: 'Open Sans', sans-serif;
+}
+/* font-family: 'IBM Plex Serif', serif; */
+
+.bg {
+    background-image: url(./images/hero-2.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+main {
+    height: 100vh!important;
+}
+.btn {
+    width: 200px !important;
+    height: 60px !important;
+}
+/* swiper style */
+.swiper {
+    width: 100%;
+    height: auto;
+}
+.testimonial .container-sm img {
+    width: 100px !important;
+}
